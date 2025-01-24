@@ -4,48 +4,48 @@ import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
 
 let tags = {
-  'crow': '🚀「 *`MENUS 𝗣⃪᪼ۖ⃖𝐑𝗔̷̷͠𝐊 𝖡̶⃨͠𝐎𝗧ۚ𖬲็̹͛`* 」🚀',
-  'main': '「INFO」🚀',
-  'teclado': '「TECLADO PRAKBOT」🧿',
-  'buscador': '「BUSQUEDAS」🌠',
-  'fun': '「JUEGOS」🚀',
-  'serbot': '「SUB BOTS」🧿',
-  'rpg': '「RPG」🌠',
-  'gacha': '「ROLLWAIFUS」🚀',
-  'rg': '「REGISTRO」🌠',
-  'sticker': '「STICKERS」🧿',
-  'emox': '「ANIMES」🚀',
-  'database': '「DATABASE」🧿',
-  'grupo': '「GRUPOS」🌠',
+  'crow': '🪷「 *`MENUS 𝐋𝐄𝐕𝐈 𝖡̶⃨͠𝐎𝗧ۚ𖬲็̹͛`* 」🪷',
+  'main': '「INFO」🪷',
+  'teclado': '「TECLADO PRAKBOT」🪷',
+  'buscador': '「BUSQUEDAS」🪷',
+  'fun': '「JUEGOS」🪷',
+  'serbot': '「SUB BOTS」🪷',
+  'rpg': '「RPG」🪷',
+  'gacha': '「ROLLWAIFUS」🪷',
+  'rg': '「REGISTRO」🪷',
+  'sticker': '「STICKERS」🪷',
+  'emox': '「ANIMES」🪷',
+  'database': '「DATABASE」🪷',
+  'grupo': '「GRUPOS」🪷',
   'nable': '「ON / OFF」', 
-  'descargas': '「DESCARGAS」🚀',
-  'tools': '「HERRAMIENTAS」🌠',
-  'info': '「INFORMACIÓN」🧿',
-  'owner': '「CREADOR」🚀',
-  'logos': '「EDICION LOGOS」🌠', 
+  'descargas': '「DESCARGAS」🪷',
+  'tools': '「HERRAMIENTAS」🪷',
+  'info': '「INFORMACIÓN」🪷',
+  'owner': '「CREADOR」🪷',
+  'logos': '「EDICION LOGOS」🪷', 
 }
 
-const vid = ['https://files.catbox.moe/m79w6n.mp4', 'https://files.catbox.moe/m79w6n.mp4', 'https://files.catbox.moe/m79w6n.mp4']
+const vid = ['https://files.catbox.moe/19hw1i.mp4', 'https://files.catbox.moe/19hw1i.mp4', 'https://files.catbox.moe/19hw1i.mp4']
 
 const defaultMenu = {
   before: `*•:•:•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•*
 
-“ *「🚀」 ¡Hola! %name soy ${botname}*, *%greeting* ❒”
+“ *「🪷」 ¡Hola! %name soy ${botname}*, *%greeting* ❒”
 
 ╔━━━━━ *⊱INFO - BOT⊰*
-✦  🚀 *Cliente:* %name
-✧  🧿 *Exp:* %exp
-✦  🌟 *Estrellas:* %estrellas
-✧  🤖 *Nivel:* %level
-✦  🌠 *Rango:* %role
+✦  🪷 *Cliente:* %name
+✧  🪷 *Exp:* %exp
+✦  🪷 *Estrellas:* %estrellas
+✧  🪷 *Nivel:* %level
+✦  🪷 *Rango:* %role
 ╚━━━━━━━━━━━━━━
 %readmore
 ╔━━━━━ *⊱INFO - USER⊰*
-✧  🤖 *Bot:* PrakBot-MD
-✦  🚀 *Modo:* Privado VIP 
-✧  ✨ *Baileys:* Multi Device
-✦  🧿 *Tiempo Activo:* %muptime
-✧  💫 *Usuarios:* %totalreg 
+✧  🪷 *Bot:* PrakBot-MD
+✦  🪷 *Modo:* Privado VIP 
+✧  🪷 *Baileys:* Multi Device
+✦  🪷 *Tiempo Activo:* %muptime
+✧  🪷 *Usuarios:* %totalreg 
 ╚━━━━━━━━━━━━━━
 %readmore
 *✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧*
@@ -53,7 +53,7 @@ const defaultMenu = {
 \t*(✰◠‿◠) 𝐂 𝐨 𝐦 𝐚 𝐧 𝐝 𝐨 𝐬*   
 `.trimStart(),
       header: '✧*̥˚ ︶︶︶︶︶︶︶︶︶  ✧*̥˚\n┊ %category \n✧*̥˚ ︶︶︶︶︶︶︶︶︶  ✧*̥˚',
-  body: '*┃☠︎︎🚀➤›* %cmd',
+  body: '*┃☠︎︎🪷➤›* %cmd',
   footer: '*┗━*\n',
   after: `> ${dev}`,
 }
