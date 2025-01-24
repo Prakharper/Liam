@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Crow%20Bot%20💛&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Levi%20Bot%20🪷&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
-> **`🪩 Versión Actual: 2.1.0`**  
+> **`🪷 Versión Actual: 2.1.0`**  
 <a
 href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WillZek/CrowBot-ST?color=yellow&style=flat-square"></a>
 
@@ -8,22 +8,22 @@ href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src=
 
 </p>
 
-## 💛 **`C R O W - B O T`**    
+## 🪷 **`L E V I - B O T`**    
 
-![Menú Principal](https://files.catbox.moe/v8q8y2.jpg)
+![Menú Principal](https://files.catbox.moe/sexx1t.jpg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>   
 
-<a href="https://github.com/WillZek/CrowBot-ST"><img src="https://cardivo.vercel.app/api?name=CrowBot&repo=CrowBot-ST&description=Hola+Soy+CrowBot+Disfruta+del+Bot+De+WhatsApp.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/WillZek/CrowBot-ST"><img src="https://cardivo.vercel.app/api?name=LeviBot&repo=LeviBot-ST&description=Hola+Soy+LeviBot+Disfruta+del+Bot+De+WhatsApp.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines= WillZek+lanzó ;Nueva+versión+2.0.1 ; By:+StarCore+Team;CrowBot+El+Mejor+Bot!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=500" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines= Prak+lanzó ;Nueva+versión+2.0.1 ; By:+StarCore+Team;LeviBot+El+Mejor+Bot!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=500" alt="Example Usage - README Typing SVG">
 </p>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-[![Web](https://img.shields.io/badge/Web_Oficial-36DFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://crow-bot-dashboard.vercel.app/)
+[![Web](https://img.shields.io/badge/Web_Oficial-36DFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://Levi-bot-dashboard.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maito:ninopina10@gmail.com)
 [![XDjajaj](https://img.shields.io/badge/Github-333522?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillZek)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/crowbot_wa)
@@ -33,24 +33,24 @@ href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src=
 [![Accounts](https://img.shields.io/badge/CUENTAS-000000%7D?style=for-the-badger&logo=biolink&logoColor=white)](https://www.atom.bio/crowbot-ofc)
 
 
-<a href="#"><img title="CrowBot" src="https://img.shields.io/badge/CROWBOT💛 | NIÑO PIÑA💛 | STARCORE 💛-blue?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+<a href="#"><img title="LeviBot" src="https://img.shields.io/badge/CROWBOT🪷 | PRAK HARPER🪷 | STARCORE 🪷-blue?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-### **`Informacion Importante De CrowBot 🌠`**
+### **`Informacion Importante De leviBot 🪷`**
 
-![Menu Secundario](https://files.catbox.moe/ugr9af.jpg)
+![Menu Secundario](https://files.catbox.moe/sexx1t.jpg)
 
 <details>
  <summary><b>:paperclip: Links Importantes</b></summary>
 
-- **Comprar Token:** [`Aquí`](https://crow-bot-dashboard.vercel.app/)
+- **Comprar Token:** [`Aquí`](https://Levi-bot-dashboard.vercel.app/)
 - **Comunidad Oficial:** [`Aquí`](https://chat.whatsapp.com/BZ87KB4Igab3lCw6DAwPCR)
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W)
-- **Propietario Del Bot:** [`Aqui`](https:/Wa.me/50557865603)
+- **Propietario Del Bot:** [`Aqui`](https:/Wa.me/58424183617)
 
 </details>
 
@@ -84,19 +84,19 @@ href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src=
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-#### **`Creador: Niño Piña 🤴`**
-#### **`Hecho Por: Staff De CrowBot`**
+#### **`Creador: Prak Harper 🚀`**
+#### **`Hecho Por: Staff De LeviBot`**
 
 ### **`CONTACTOS 💻`**
 <p>
 
 <a
-href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
+href="https://wa.me/584241836217?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
 
 <details>
 <summary><b> 💣 Contáctos</b></summary>
 
-- **Propietario:** [`Aquí`](https:/Wa.me/50557865603)
+- **Propietario:** [`Aquí`](https:/Wa.me/584241836217)
 
 </details>
 
@@ -104,7 +104,7 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
  
-### 💛 **`OFC CROWBOT`**
+### 🪷 **`OFC LEVI`**
 
 > **CANAL Y GRUPO DEL BOT**
 
