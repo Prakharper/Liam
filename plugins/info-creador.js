@@ -24,8 +24,8 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
                 showAdAttribution: true,
                 title: 'һ᥆ᥣᥲ s᥆ᥡ ⍴rᥲk-᥆𝖿ᥴ ᥱᥣ mᥱȷ᥆r',
                 body: dev,
-                thumbnailUrl: 'https://files.catbox.moe/nhnk4l.jpg',
-                sourceUrl: 'https://wa.me/50557865603?text=Vengo+Del+Comando+.owner',
+                thumbnailUrl: 'https://files.catbox.moe/sexx1t.jpg',
+                sourceUrl: 'https://wa.me/584241836217?text=Vengo+Del+Comando+.owner',
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
@@ -36,7 +36,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
 
     let txt = `👋 *Hola \`${username}\` este es*\n*el contacto de mi creador*`;
 
-    await conn.sendMessage(m.chat, { text: txt });
+    await conn.sendMessage(m.chat, { text: txt });https://files.catbox.moe/sexx1t.jpg
 };
 
 handler.help = ['owner', 'creator'];
