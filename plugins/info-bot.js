@@ -5,7 +5,7 @@ handler.all = async function(m) {
 const chat = global.db.data.chats[m.chat];
 if (chat.isBaneed) return
 if (/^bot$/i.test(m.text)) {
-conn.reply(m.chat, `🌠 ¡Hola! Soy PrakBot, en que puedo ayudarte hoy?\n\n✰ Usa *.menu* para ver mis comandos.`, m, rcanal, )
+conn.reply(m.chat, `🪷 ¡Hola! Soy LeviBot, en que puedo ayudarte hoy?\n\n✰ Usa *.menu* para ver mis comandos.`, m, rcanal, )
 }
 /*if (/^que|q$/i.test(m.text)) {
 conn.reply(m.chat, `*so*`, m, rcanal, )
@@ -31,11 +31,11 @@ conn.reply(m.chat, `*rroz y pollo* 😋👌`, m, rcanal, )
 }
 
 if (/^Bot Perzonalizado Simple/i.test(m.text)) {
-conn.reply(m.chat, `*Claro, El Bot Perzonalizado Simple Cuesta 14$ Con Server Incluído y comisión, trae comandos básicos.[🌠]*`, m, rcanal, )
+conn.reply(m.chat, `*Claro, El Bot Perzonalizado Simple Cuesta 14$ Con Server Incluído y comisión, trae comandos básicos.[🪷]*`, m, rcanal, )
 }
 
 if (/^Quiero Un Bot/i.test(m.text)) {
-conn.reply(m.chat, `*¡Claro!, Vendemos Bots A Buen Precio Y Accesibles a tus Necesidades [🌠]*
+conn.reply(m.chat, `*¡Claro!, Vendemos Bots A Buen Precio Y Accesibles a tus Necesidades [🪷]*
 > Más Información 
 https://chat.whatsapp.com/KfcT8ReqiJW93g17vSXVpf`, m, rcanal, )
 }
@@ -50,7 +50,7 @@ Tenemos:
 •Bot Perzonalizado Plus o normal 
 •Bot Propio
 •Bot Para Grupo 
-> *Consulta Los Precios [🌠]*`, m, rcanal, )
+> *Consulta Los Precios [🪷]*`, m, rcanal, )
 }
 
 if (/^Lan/i.test(m.text)) {
@@ -96,7 +96,7 @@ conn.reply(m.chat, `**R꙰EGLAS DEL GRUP❍ꪜ*
 █║║██║║██║║██║║██║║█
 ✧･ﾟ: *✧･Atte.
 
-☆ ፝͜★ৡ͜͡✞ *𝗣⃪᪼ۖ⃖𝐑𝗔̷̷͠𝐊 𝖡̶⃨͠𝐎𝗧ۚ𖬲็̹͛* ➵͡☠️⃪̸ੵ᷒ᰰ↱
+☆ ፝͜★ৡ͜͡✞ *𝐋𝐄𝐕𝐈 𝖡̶⃨͠𝐎𝗧ۚ𖬲็̹͛* ➵͡☠️⃪̸ੵ᷒ᰰ↱
 
 ✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*`, m, rcanal, )
 }
