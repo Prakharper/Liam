@@ -34,15 +34,15 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //creador y otros
 global.creador = 'Wa.me/50557865603'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/50557865603'
-global.namech = '˙˒𖥻˚𝐂𝐫𝐨𝐰𝐁𝐨𝐭 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥﹋꥟'
-global.namechannel2 = '『✯ 𝗧𝗲𝗮𝗺 𝗖𝗼𝗺𝘂𝗻𝗶𝘁𝘆 𝗖𝗿𝗼𝘄 ✯』'
-global.namegrupo = 'シ︎ 𝗣𝗥𝗔𝗞𝗕𝗢𝗧-2.0 🚀'
+global.asistencia = 'Wa.me/584241836217'
+global.namech = '˙˒𖥻˚𝐋𝐞𝐯𝐢𝐁𝐨𝐭 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥﹋꥟'
+global.namechannel2 = '『✯ 𝗧𝗲𝗮𝗺 𝗖𝗼𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝘃𝗶 ✯』'
+global.namegrupo = 'シ︎ 𝗟𝗘𝗩𝗜𝗕𝗢𝗧-2.0 🚀'
 global.namecomu = '『𝗚𝗿𝘂𝗽𝗼 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 𝗖𝗿𝗼𝘄𝗕𝗼𝘁✯』'
-global.namecomu2 = '𝗧𝗵𝗲𝗣𝗿𝗮𝗸𝗕𝗼𝘁'
-global.colab1 = '𝗧𝗵𝗲𝗣𝗿𝗮𝗸𝗕𝗼𝘁'
-global.colab2 = '𝗧𝗵𝗲𝗣𝗿𝗮𝗸𝗕𝗼𝘁'
-global.colab3 = '𝗧𝗵𝗲𝗣𝗿𝗮𝗸𝗕𝗼𝘁'
+global.namecomu2 = '𝗧𝗵𝗲𝗟𝗲𝘃𝗶𝗕𝗼𝘁'
+global.colab1 = '𝗧𝗵𝗲𝗟𝗲𝘃𝗶𝗕𝗼𝘁'
+global.colab2 = '𝗧𝗵𝗲𝗟𝗲𝘃𝗶𝗕𝗼𝘁'
+global.colab3 = '𝗧𝗵𝗲𝗟𝗲𝘃𝗶𝗕𝗼𝘁'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
@@ -50,11 +50,11 @@ global.done = '✅'
 global.error = '✖️'
 
 //Emojis determinado de CrowBot
-global.emoji = '🚀'
-global.emoji2 = '🧿'
-global.emoji3 = '🌠'
-global.emoji4 = '🧿'
-global.emoji5 = '🚀'
+global.emoji = '🪷'
+global.emoji2 = '🪷'
+global.emoji3 = '🪷'
+global.emoji4 = '🪷'
+global.emoji5 = '🪷'
 global.emojis = [emoji, emoji2, emoji3, emoji4, emoji5].getRandom()
 
 //mensaje en espera
@@ -105,12 +105,12 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
   
 global.icono = [ 
-'https://files.catbox.moe/sx42eg.jpg',
-'https://files.catbox.moe/9ox40z.jpg',
-'https://files.catbox.moe/pmn4cv.jpg',
-'https://files.catbox.moe/qd3mc8.jpg',
-'https://files.catbox.moe/q5vk70.jpg',
-'https://files.catbox.moe/0pbuh5.jpg',
+'https://files.catbox.moe/gv3hlu.jpg',
+'https://files.catbox.moe/6t1j32.jpg',
+'https://files.catbox.moe/uljm72.jpg',
+'https://files.catbox.moe/wf6z93.jpg',
+'https://files.catbox.moe/6oyv6i.jpg',
+'https://files.catbox.moe/knwoxz.jpg',
 ].getRandom()
 
 global.urls = [
