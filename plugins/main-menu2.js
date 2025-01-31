@@ -23,7 +23,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
  await m.react(emojis)
 const document = doc[Math.floor(Math.random() * doc.length)];
- const str = `*🚀 M E N U  - A U D I O S 🚀*
+ const str = `*🪷 M E N U  - A U D I O S 🪷*
 
 *NO ES NECESARIO USAR PREFIJO EN AUDIOS*
 ∘ _Negro_
