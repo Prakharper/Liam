@@ -33,24 +33,24 @@ const defaultMenu = {
 “ *「🪷」 ¡Hola! %name soy ${botname}*, *%greeting* ❒”
 
 ╔━━━━━ *⊱INFO - BOT⊰*
-✦  🪷 *Cliente:* %name
-✧  🪷 *Exp:* %exp
-✦  🪷 *Estrellas:* %estrellas
-✧  🪷 *Nivel:* %level
-✦  🪷 *Rango:* %role
+☠︎︎  🪷 *Cliente:* %name
+☠︎︎  🪷 *Exp:* %exp
+☠︎︎  🪷 *Estrellas:* %estrellas
+☠︎︎  🪷 *Nivel:* %level
+☠︎︎  🪷 *Rango:* %role
 ╚━━━━━━━━━━━━━━
 %readmore
 ╔━━━━━ *⊱INFO - USER⊰*
-✧  🪷 *Bot:* PrakBot-MD
-✦  🪷 *Modo:* Privado VIP 
-✧  🪷 *Baileys:* Multi Device
-✦  🪷 *Tiempo Activo:* %muptime
-✧  🪷 *Usuarios:* %totalreg 
+☠︎︎  🪷 *Bot:* PrakBot-MD
+☠︎︎  🪷 *Modo:* Privado VIP 
+☠︎︎  🪷 *Baileys:* Multi Device
+☠︎︎  🪷 *Tiempo Activo:* %muptime
+☠︎︎  🪷 *Usuarios:* %totalreg 
 ╚━━━━━━━━━━━━━━
 %readmore
 *✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧*
 
-\t*(✰◠‿◠) 𝐂 𝐨 𝐦 𝐚 𝐧 𝐝 𝐨 𝐬*   
+\t*(•̀ᴗ•́)و 𝐂 𝐎 𝐌 𝐀 𝐍 𝐃 𝐎 𝐒*   
 `.trimStart(),
       header: '✧*̥˚ ︶︶︶︶︶︶︶︶︶  ✧*̥˚\n┊ %category \n✧*̥˚ ︶︶︶︶︶︶︶︶︶  ✧*̥˚',
   body: '*┃☠︎︎🪷➤›* %cmd',
@@ -145,7 +145,7 @@ npmdesc: _package.description,
 version: _package.version,
 exp: exp - min,
 maxexp: xp,
-botofc: (conn.user.jid == global.conn.user.jid ? '🚀 𝙴𝚂𝚃𝙴 𝙴𝚂 𝙴𝙻 𝙱𝙾𝚃 𝙾𝙵𝙲' : `🚀 𝚂𝚄𝙱-𝙱𝙾𝚃 𝙳𝙴: Wa.me/${global.conn.user.jid.split`@`[0]}`), 
+botofc: (conn.user.jid == global.conn.user.jid ? '🪷 𝙴𝚂𝚃𝙴 𝙴𝚂 𝙴𝙻 𝙱𝙾𝚃 𝙾𝙵𝙲' : `🪷 𝚂𝚄𝙱-𝙱𝙾𝚃 𝙳𝙴: Wa.me/${global.conn.user.jid.split`@`[0]}`), 
 totalexp: exp,
 xp4levelup: max - exp,
 github: _package.homepage ? _package.homepage.url || _package.homepage : '[unknown github url]',
