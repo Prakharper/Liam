@@ -6,11 +6,11 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
     return;
   }
   const pesan = args.join` `;
-  const colombia = `💌 *Mensaje:* ${pesan}`;
-  let teks = `🚀 *Revivan hijos de puta*\n${colombia}\n\n┏ ☠︎︎𝗣⃪᪼ۖ⃖𝐑𝗔̷̷͠𝐊 𝖡̶⃨͠𝐎𝗧ۚ𖬲็̹͛-2.0\n`;
+  const colombia = `🪷 *anuncio:* ${pesan}`;
+  let teks = `🪷 *arriba, arriba zorras*\n${colombia}\n\n┏ ☠︎︎𝐋𝐄𝐕𝐈 𝐁𝐎𝐓\n`;
   
   for (const mem of participants) {
-    teks += `┋🚀@${mem.id.split('@')[0]}\n`;
+    teks += `┋🪷@${mem.id.split('@')[0]}\n`;
   }
   
   teks += `┗ ${dev}`;
