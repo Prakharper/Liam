@@ -1,7 +1,7 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
-let staff = `🚀 *EQUIPO DE AYUDANTES*
-🧿 *Bot:* ${global.botname}
-🌠 *Versión:* ${global.vs}
+let staff = `🪷 *EQUIPO DE AYUDANTES*
+🪷 *Bot:* ${global.botname}
+🪷 *Versión:* ${global.vs}
 
 • *AAMŌN* 
 🩸 *Rol:* EDITOR PROFESIONAL Y PUTITA FAVORITA DE PRAK HARPER
@@ -16,7 +16,7 @@ let staff = `🚀 *EQUIPO DE AYUDANTES*
 ♟️ *Número:* Wa.me/573185444099
 `
 
-await conn.sendFile(m.chat, 'https://files.catbox.moe/sx42eg.jpg', 'brook.jpg', staff.trim(), fkontak, true, {
+await conn.sendFile(m.chat, 'https://files.catbox.moe/6oyv6i.jpg', 'brook.jpg', staff.trim(), fkontak, true, {
 contextInfo: {
 'forwardingScore': 200,
 'isForwarded': false,
