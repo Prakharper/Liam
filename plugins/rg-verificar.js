@@ -9,15 +9,15 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
     let name2 = conn.getName(m.sender)
     
     if (user.registered === true) {
-        return m.reply(`💛 𝗬𝗮 𝘁𝗲 𝗲𝗻𝗰𝘂𝗲𝗻𝘁𝗿𝗮𝘀 𝗿𝗲𝗴𝗶𝘀𝘁𝗿𝗮𝗱𝗼.\n\n¿𝗤𝘂𝗶𝗲𝗿𝗲 𝘃𝗼𝗹𝘃𝗲𝗿 𝗮 𝗿𝗲𝗴𝗶𝘀𝘁𝗿𝗮𝗿𝘀𝗲?\n\n𝗨𝘀𝗲 𝗲𝘀𝘁𝗲 𝗰𝗼𝗺𝗮𝗻𝗱𝗼 𝗽𝗮𝗿𝗮 𝗲𝗹𝗶𝗺𝗶𝗻𝗮𝗿 𝘀𝘂 𝗿𝗲𝗴𝗶𝘀𝘁𝗿𝗼.\n*${usedPrefix}unreg*`)
+        return m.reply(`🪷 𝗬𝗮 𝘁𝗲 𝗲𝗻𝗰𝘂𝗲𝗻𝘁𝗿𝗮𝘀 𝗿𝗲𝗴𝗶𝘀𝘁𝗿𝗮𝗱𝗼.\n\n¿𝗤𝘂𝗶𝗲𝗿𝗲 𝘃𝗼𝗹𝘃𝗲𝗿 𝗮 𝗿𝗲𝗴𝗶𝘀𝘁𝗿𝗮𝗿𝘀𝗲?\n\n𝗨𝘀𝗲 𝗲𝘀𝘁𝗲 𝗰𝗼𝗺𝗮𝗻𝗱𝗼 𝗽𝗮𝗿𝗮 𝗲𝗹𝗶𝗺𝗶𝗻𝗮𝗿 𝘀𝘂 𝗿𝗲𝗴𝗶𝘀𝘁𝗿𝗼.\n*${usedPrefix}unreg*`)
     }
     
     if (!Reg.test(text)) return m.reply(`Eʟ ғᴏʀᴍᴀᴛᴏ ɪɴɢʀᴇsᴀᴅᴏ ᴇs ɪɴᴄᴏʀʀᴇᴄᴛᴏ\n\nUsᴏ ᴅᴇʟ ᴄᴏᴍᴀɴᴅᴏ: ${usedPrefix + command} 𝗻𝗼𝗺𝗯𝗿𝗲.𝗲𝗱𝗮𝗱\nEᴊᴇᴍᴘʟᴏ : *${usedPrefix + command} ${name2}.14*`)
     
     let [_, name, splitter, age] = text.match(Reg)
-    if (!name) return m.reply('💛 Eʟ ɴᴏʍ𝗯𝗿𝗲 ɴᴏ ᴘᴜᴇᴅᴇ ᴇsᴛᴀʀ ᴠᴀᴄɪᴏ.')
-    if (!age) return m.reply('💛 Lᴀ ᴇᴅᴀᴅ ɴᴏ ᴘᴜᴇᴅᴇ ᴇsᴛᴀʀ ᴠᴀᴄɪ́ᴀ.')
-    if (name.length >= 100) return m.reply('💛 El nombre es demasiado largo.')
+    if (!name) return m.reply('🪷 Eʟ ɴᴏʍ𝗯𝗿𝗲 ɴᴏ ᴘᴜᴇᴅᴇ ᴇsᴛᴀʀ ᴠᴀᴄɪᴏ.')
+    if (!age) return m.reply('🪷 Lᴀ ᴇᴅᴀᴅ ɴᴏ ᴘᴜᴇᴅᴇ ᴇsᴛᴀʀ ᴠᴀᴄɪ́ᴀ.')
+    if (name.length >= 100) return m.reply('🪷 El nombre es demasiado largo.')
     
     age = parseInt(age)
     if (age > 100) return m.reply('*ʟᴀ ᴇᴅᴀᴅ ɪɴɢʀᴇsᴀᴅᴀ ᴇs ɪɴᴄᴏʀʀᴇᴄᴛᴀ*')
@@ -46,14 +46,14 @@ let userNationalityData = api.data.result;
     
     let sn = createHash('md5').update(m.sender).digest('hex')
     let regbot = `┏━━━━━━━━━━━━━━━━━━⬣
-┃⋄ *🫐 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐎 - 𝐏𝐑𝐀𝐊𝐁𝐎𝐓*
+┃⋄ *🪷 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐎 - 𝐋𝐄𝐕𝐈𝐁𝐎𝐓*
 ┗━━━━━━━━━━━━━━━━━━⬣\n`
     regbot += `•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•\n`
-    regbot += `「💙」𝐍𝐨𝐦𝐛𝐫𝐞: ${name}\n`
-    regbot += `「💙」𝐄𝐝𝐚𝐝: ${age} años\n`
-    regbot += `「💙」𝐏𝐚𝐢𝐬: ${userNationality}\n`
+    regbot += `「🪷」𝐍𝐨𝐦𝐛𝐫𝐞: ${name}\n`
+    regbot += `「🪷」𝐄𝐝𝐚𝐝: ${age} años\n`
+    regbot += `「🪷」𝐏𝐚𝐢𝐬: ${userNationality}\n`
     regbot += `•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•\n`
-    regbot += `「💙」𝐑𝐞𝐜𝐨𝐦𝐩𝐞𝐧𝐬𝐚𝐬:\n> `
+    regbot += `「🪷」𝐑𝐞𝐜𝐨𝐦𝐩𝐞𝐧𝐬𝐚𝐬:\n> `
     regbot += `• 15 Estrellas 🌟\n> `
     regbot += `• 5 CrowCoins 🪙\n> `
     regbot += `• 245 Experiencia 💸\n> `
@@ -68,7 +68,7 @@ let userNationalityData = api.data.result;
             externalAdReply: {
                 title: '⊱『✅𝆺𝅥 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗗𝗢(𝗔) 𝆹𝅥✅』⊰',
                 body: dev,
-                thumbnailUrl: 'https://files.catbox.moe/o6uocz.jpg',
+                thumbnailUrl: 'https://files.catbox.moe/6oyv6i.jpg',
                 sourceUrl: 'https://whatsapp.com/channel/0029Vb1kImN42Dcn99y1rW0E',
                 mediaType: 1,
                 showAdAttribution: true,
