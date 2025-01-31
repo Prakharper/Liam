@@ -120,8 +120,8 @@ global.urls = [
 let gifUrl = urls[Math.floor(Math.random() * urls.length)];
 
 const canalName = [
-"⏤͟͟͞͞⋆⬪࣪ꥈ🎅★ ׄ ꒱ 𝑷𝒓𝒂𝒌𝑩𝒐𝒕 - 𝑺.𝑪.𝑨 ୭",
-"𝐌𝐚𝐬𝐡𝐚 𝐇𝐨𝐬𝐭 🎄 ℍ𝕠𝕤𝕥𝕚𝕟𝕘"
+"⏤͟͟͞͞⋆⬪࣪ꥈ🪷★ ׄ ꒱ 𝐿𝑒𝑣𝑖𝑩𝒐𝒕 - 𝑺.𝑪.𝑨 ୭",
+"𝐌𝐚𝐬𝐡𝐚 𝐇𝐨𝐬𝐭 🪷 ℍ𝕠𝕤𝕥𝕚𝕟𝕘"
 ].getRandom()
 const randomCanalName =
 canalName[Math.floor(Math.random() *
