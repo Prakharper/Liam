@@ -10,13 +10,13 @@ import fetch from 'node-fetch'
 const { generateWAMessageFromContent, proto } = (await import('@whiskeysockets/baileys')).default
 
 const defaultMenu = {
-  before: `“🎳¡Hola! *%name*, a qui esta mi menu de juegos"
+  before: `“🪷¡Hola! *%name*, a qui esta mi menu de juegos"
 
 *─ׄ─ׄ─⭒─ׄ─ׅ─ׄ⭒─ׄ─ׄ─⭒─ׄ─ׄ─⭒─ׄ─ׅ──ׄ*
 %readmore
 `.trimStart(),
   header: '┏━━⪩「 *_`%category`_* 」⪨',
-  body: '┃『🎮』 %cmd\n',
+  body: '┃『🪷』 %cmd\n',
   footer: '┗━━━━━━━━━━━━━━━━⪩\n',
   after: ``,
 }
@@ -24,7 +24,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command}) => {
 let tags = {
 'fun': 'Diversion',
 }
-let img = 'https://files.catbox.moe/w3s79j.jpg'
+let img = 'https://files.catbox.moe/6t1j32.jpg'
 
   try {
           // DEFAULT MENU
