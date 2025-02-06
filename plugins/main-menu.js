@@ -25,7 +25,7 @@ let tags = {
   'logos': '「EDICION LOGOS」🪷', 
 }
 
-const vid = ['https://files.catbox.moe/mi9pw3.mp4', 'https://files.catbox.moe/mi9pw3.mp4', 'https://files.catbox.moe/mi9pw3.mp4']
+const vid = ['https://files.catbox.moe/j9w56z.mp4', 'https://files.catbox.moe/j9w56z.mp4', 'https://files.catbox.moe/j9w56z.mp4']
 
 const defaultMenu = {
   before: `*•:•:•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•*
