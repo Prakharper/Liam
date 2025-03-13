@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 global.owner = [
-   ['584241836217', 'Creador prakharper 🚀', true],
+   ['573143681055', 'Creador prakharper 🚀', true],
    ['50498409019', 'CrowBot Soporte', true],
    ['', 'Support2', true],
    ['', 'Mi Mujer🔥', true],
@@ -21,7 +21,7 @@ global.owner = [
 ]
 
 global.creadorbot = [
-   ['584241836217', 'prak', true],
+   ['573143681055', 'prak', true],
 ]
   
 
