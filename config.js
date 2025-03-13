@@ -11,8 +11,8 @@ import moment from 'moment-timezone'
 global.owner = [
    ['573143681055', 'Creador prakharper 🚀', true],
    ['50498409019', 'CrowBot Soporte', true],
-   ['', 'Support2', true],
-   ['', 'Mi Mujer🔥', true],
+   ['584241836217', 'Support2', true],
+   ['', 'Liam', true],
    ['', 'Colaborador ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
    ['', 'im fz~', true],
    ['', 'Colaborador Prak', true],
