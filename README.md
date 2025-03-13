@@ -30,7 +30,7 @@ href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src=
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/starcoreNinoPina)
 [![Patreon](https://img.shields.io/badge/Patreon-6C6C6C?style=for-the-badge&logo=patreon&logoColor=white)](https://nohay.com)
 [![Facebook Pijes](https://img.shields.io/badge/Facebook-3D9FFF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61570569047747)
-[![Accounts](https://img.shields.io/badge/CUENTAS-000000%7D?style=for-the-badger&logo=biolink&logoColor=white)](https://www.atom.bio/crowbot-ofc)
+[![Accounts](https://img.shields.io/badge/CUENTAS-000000%7D?style=for-the-badger&logo=biolink&logoColor=white)](https://www.atom.bio/LeviBot-ofc)
 
 
 <a href="#"><img title="LeviBot" src="https://img.shields.io/badge/CROWBOT🪷 | PRAK HARPER🪷 | STARCORE 🪷-blue?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
@@ -50,7 +50,7 @@ href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src=
 - **Comprar Token:** [`Aquí`](https://Levi-bot-dashboard.vercel.app/)
 - **Comunidad Oficial:** [`Aquí`](https://chat.whatsapp.com/BZ87KB4Igab3lCw6DAwPCR)
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W)
-- **Propietario Del Bot:** [`Aqui`](https:/Wa.me/58424183617)
+- **Propietario Del Bot:** [`Aqui`](https:/Wa.me/573143681055)
 
 </details>
 
@@ -60,7 +60,7 @@ href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src=
 
 ### **` Características `**
 <details>
- <summary><b> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Funciones de CrowBot (toca)</b></summary>
+ <summary><b> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Funciones de LeviBot (toca)</b></summary>
 
 > Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
 
@@ -91,12 +91,12 @@ href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src=
 <p>
 
 <a
-href="https://wa.me/584241836217?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
+href="https://wa.me/573143681055?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
 
 <details>
 <summary><b> 💣 Contáctos</b></summary>
 
-- **Propietario:** [`Aquí`](https:/Wa.me/584241836217)
+- **Propietario:** [`Aquí`](https:/Wa.me/573143681055)
 
 </details>
 
@@ -246,8 +246,8 @@ href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z
 <img src="https://contrib.rocks/image?repo=WillZek/CrowBot-ST" /> 
 </a>
 
-### **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
-![https://github.com/WillZek](https://files.catbox.moe/p44sem.jpg)
+### **`🪷 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
+![https://github.com/Prakharper](https://files.catbox.moe/p44sem.jpg)
 
 > **`Solo Escribir Para Cosas Importantes`**
 
@@ -258,7 +258,7 @@ href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z
 
 </details>
 
-> Developed By  **[WillZek](wa.me/50557865603?text=Vengo+De+Github)**.
+> Developed By  **[Prak Harper](wa.me/573143681055?text=Vengo+De+Github)**.
 
-**`¡GRACIAS POR PREFERIR CROWBOT!` 💛**
+**`¡GRACIAS POR PREFERIR LEVIBOT!` 🪷**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Espero%20Hayas%20Disfrutado%20El%20Repositorio&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
