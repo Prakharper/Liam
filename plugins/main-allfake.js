@@ -32,9 +32,9 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/584241836217'
+global.creador = 'Wa.me/573143681055'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/584241836217'
+global.asistencia = 'Wa.me/573143681055'
 global.namech = '˙˒𖥻˚𝐋𝐞𝐯𝐢𝐁𝐨𝐭 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥﹋꥟'
 global.namechannel2 = '『✯ 𝗧𝗲𝗮𝗺 𝗖𝗼𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝘃𝗶 ✯』'
 global.namegrupo = 'シ︎ 𝗟𝗘𝗩𝗜𝗕𝗢𝗧-2.0 🚀'
@@ -49,7 +49,7 @@ global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de CrowBot
+//Emojis determinado de LeviBot
 global.emoji = '🪷'
 global.emoji2 = '🪷'
 global.emoji3 = '🪷'
