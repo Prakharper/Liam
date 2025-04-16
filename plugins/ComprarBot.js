@@ -1,11 +1,11 @@
-// Créditos A Niño Piña
+// Créditos A Prak Harper 
 let handler = async (m, { conn }) => {
-// No Quites Los Créditos🦌
-m.react('🪷');
+// No Quites Los Créditos👑
+m.react('👑');
 // Mensaje que se enviará
-const message = "〔⛄ *LEVI - BOT* ❄️〕\n\n> *🦌FELIZ NAVIDAD🎄*\n\n*BOT PARA GRUPO* :\n> wa.me/584241836217\n\n*BOT PERZONALIZADO* :\n> wa.me/584241836217";
+const message = "〔👑 *LIAM - BOT* 👑〕\n\n> *👑 Hola me llamos Liam bot*\n\n*BOT PARA GRUPO* :\n> wa.me/584241836217\n\n*BOT PERZONALIZADO* :\n> wa.me/584241836217";
 if (m, rcanal) {
-// Feliz Navidad🎄
+// Feliz día👑
 const imageUrl = 'https://files.catbox.moe/sexx1t.jpg';
 try {
 // Que No Quites Los Créditos😑
