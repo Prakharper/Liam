@@ -64,8 +64,8 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗼...*';
 
 //Enlaces
-var canal =   'https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24'  
-var github = 'https://github.com/WillZek/CrowBot-ST' 
+var canal =   'https://whatsapp.com/channel/0029VbA8khtAojYojh8unV03'  
+var github = 'https://github.com/Prakharper/Liam' 
 var facebook = 'https://www.facebook.com/profile.php?id=61571147640356' 
 let instagram = 'https://www.instagram.com/harperprak?igsh=MWxlYnN3NXV0dnV2Mg=='
 
