@@ -5,7 +5,7 @@ handler.all = async function(m) {
 const chat = global.db.data.chats[m.chat];
 if (chat.isBaneed) return
 if (/^bot$/i.test(m.text)) {
-conn.reply(m.chat, `🪷 ¡Hola! Soy LeviBot, en que puedo ayudarte hoy?\n\n✰ Usa *.menu* para ver mis comandos.`, m, rcanal, )
+conn.reply(m.chat, `👑 ¡Hola! Soy LiamBot, en que puedo ayudarte hoy?\n\n✰ Usa *.menu* para ver mis comandos.`, m, rcanal, )
 }
 /*if (/^que|q$/i.test(m.text)) {
 conn.reply(m.chat, `*so*`, m, rcanal, )
@@ -31,13 +31,13 @@ conn.reply(m.chat, `*rroz y pollo* 😋👌`, m, rcanal, )
 }
 
 if (/^Bot Perzonalizado Simple/i.test(m.text)) {
-conn.reply(m.chat, `*Claro, El Bot Perzonalizado Simple Cuesta 20$ Con Server Incluído y comisión, trae comandos básicos.[🪷]*`, m, rcanal, )
+conn.reply(m.chat, `*Claro, El Bot Perzonalizado Simple Cuesta 20$ Con Server Incluído y comisión, trae comandos básicos.[👑]*`, m, rcanal, )
 }
 
 if (/^Quiero Un Bot/i.test(m.text)) {
-conn.reply(m.chat, `*¡Claro!, Vendemos Bots A Buen Precio Y Accesibles a tus Necesidades [🪷]*
+conn.reply(m.chat, `*¡Claro!, Vendemos Bots A Buen Precio Y Accesibles a tus Necesidades [👑]*
 > Más Información 
-https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24`, m, rcanal, )
+https://whatsapp.com/channel/0029VbA8khtAojYojh8unV03`, m, rcanal, )
 }
 
 if (/^Bot de mrd/i.test(m.text)) {
@@ -65,11 +65,11 @@ if (/^Prak/i.test(m.text)) {
 conn.reply(m.chat, `*Prak Harper Es Mi Creador, Respeta!*`, m, rcanal, )
 }
 
-if (/^Levi$/i.test(m.text)) {
-conn.reply(m.chat, `*Hola ¿Eres Fan De* *LeviBot,PrakBot o DemonBot?*
+if (/^Liam$/i.test(m.text)) {
+conn.reply(m.chat, `*Hola ¿Eres Fan De* *LiamBot,PrakBot o DemonBot?*
 *Entonces Sigue El Canal Oficial!*
-> https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24
- *Gracias por utilizar LeviBot-MD* `, m, rcanal, )
+> https://whatsapp.com/channel/0029VbA8khtAojYojh8unV03
+ *Gracias por utilizar LiamBot-MD* `, m, rcanal, )
 }
 if (/^reglasgp|.reglasgp$/i.test(m.text)) {
 conn.reply(m.chat, `**R꙰EGLAS DEL GRUP❍ꪜ*
