@@ -6,7 +6,7 @@ export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) 
     const chat = global.db.data.chats[m.chat];
     const bot = global.db.data.settings[this.user.jid] || {};
     if (bot.antiPrivate && !isOwner && !isROwner) {
-      await m.reply(`> 🚀 Hola @${m.sender.split`@`[0]}, Lo Siento No Esta 🧿Permitido Escribirme Al Privado 🌠 Por Lo Cual Seras Bloqueado/A\n\n> *🚀 Wiii* \n\n\n _Ayudame a cumplir mi meta_\n Canal\nhttps://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24`, false, {mentions: [m.sender]});
+      await m.reply(`> 👑 Hola @${m.sender.split`@`[0]}, Lo Siento No Esta 👑Permitido Escribirme Al Privado 👑Por Lo Cual Seras Bloqueado/A\n\n> *👑 Wiii* \n\n\n _Ayudame a cumplir mi meta_\n Canal\nhttps://whatsapp.com/channel/0029VbA8khtAojYojh8unV03`, false, {mentions: [m.sender]});
       await this.updateBlockStatus(m.chat, 'block');
     }
     return !1;
