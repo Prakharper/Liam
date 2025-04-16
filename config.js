@@ -12,7 +12,7 @@ global.owner = [
    ['573143681055', 'Creador prakharper 🚀', true],
    ['50498409019', 'CrowBot Soporte', true],
    ['584241836217', 'Support2', true],
-   ['', 'Liam', true],
+   ['573163454715', 'Liam', true],
    ['', 'Colaborador ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
    ['', 'im fz~', true],
    ['', 'Colaborador Prak', true],
